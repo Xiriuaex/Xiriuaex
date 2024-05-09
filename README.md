@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiriuaex&label=Profile%20views&color=0e75b6&style=flat" alt="xiriuaex" /> </p>
 
-- 🔭 I’m currently working on [a Conference App which is basically a discord for Office people.](https://github.com/Xiriuaex/conference-v2)
+- 🔭 I’m currently working on [a Conference App which is basically a discord for Office people.it's currently in very early stages](https://github.com/Xiriuaex/conference-v2)
 
 - 🌱 I’m currently learning **typescript**
 
