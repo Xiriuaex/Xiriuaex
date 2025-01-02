@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pragyan Chetia</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 <h3 align="center">Open To Work</h3>
-<img align='right' alt='coding' width="400" height="200" src='https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif'/>
+<img align='right' alt='coding' width="400" height="200" src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiriuaex&label=Profile%20views&color=0e75b6&style=flat" alt="xiriuaex" /> </p>
 
