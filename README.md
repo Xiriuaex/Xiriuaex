@@ -7,7 +7,7 @@
 
 Look Into My Projects. They are Fun.
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 Full Stack Developerrrrrrr
 
 - 💬 Ask me about **MERN, Next js**
 
